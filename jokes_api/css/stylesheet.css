@@ -12,7 +12,7 @@ a {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #10dc9f; /* Amarelo divertido */
+    background-color: #10dc9f; 
     margin: 0;
 }
 
@@ -21,36 +21,36 @@ body {
     padding: 20px;
     background-color: white;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
-    margin: 50px auto; /* Centraliza o conteúdo verticalmente */
-    max-width: 600px; /* Define uma largura máxima para o conteúdo */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    margin: 50px auto; 
+    max-width: 600px; 
 }
 
 nav {
     display: flex;
     justify-content: center;
-    background-color: #ffffff; /* Fundo branco para a barra de navegação */
-    position: fixed; /* Fixa a barra de navegação no topo */
-    width: 100%; /* Largura total */
-    z-index: 1000; /* Z-index alto para garantir que a barra de navegação fique sobre o conteúdo */
-    top: 0; /* Alinha a barra de navegação no topo da página */
+    background-color: #ffffff; 
+    position: fixed; 
+    width: 100%; 
+    z-index: 1000; 
+    top: 0; 
 }
 
 nav a {
     padding: 10px 20px;
     text-decoration: none;
-    color: #333333; /* Cor do texto da barra de navegação */
-    margin: 0 10px; /* Espaçamento entre os links */
+    color: #333333; 
+    margin: 0 10px; 
 }
 
 nav a:hover {
-    background-color: #dddddd; /* Cor de fundo mais clara no hover */
-    border-radius: 5px; /* Borda arredondada no hover */
+    background-color: #dddddd;
+    border-radius: 5px; 
 }
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8e71c; /* Amarelo divertido */
+    background-color: #f8e71c; 
     margin: 0;
 }
 
@@ -59,20 +59,20 @@ body {
     padding: 40px;
     background-color: white;
     border-radius: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
-    margin: 100px auto; /* Centraliza o conteúdo verticalmente e ajusta a margem superior */
-    max-width: 800px; /* Define uma largura máxima para o conteúdo */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    margin: 100px auto; 
+    max-width: 800px; 
 }
 
 button {
-    background-color: #ff5722; /* Laranja */
+    background-color: #ff5722; 
     color: white;
     border: none;
     border-radius: 20px;
     padding: 15px 30px;
     margin-top: 20px;
     cursor: pointer;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }
 
 button:hover {
